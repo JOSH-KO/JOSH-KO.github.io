@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #DAA520;
+    color: #FFD700;
     text-shadow: 1px 1px 2px black, 0 0 25px LemonChiffon, 0 0 5px LightGoldenRodYellow;
 }
 a:hover {
