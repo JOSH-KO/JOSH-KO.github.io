@@ -3,10 +3,13 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
-<?xml-stylesheet href="https://josh-ko.github.io/css/main.css"?>
-    
+  
     <xsl:template match="/">
         <html>
+            <head> 
+                <title>Plant Catalog</title>
+                <link href="https://josh-ko.github.io/css/main.css" rel="stylesheet" type="text/css"/>
+            </head>
             <body>
                 <h1>Plant Catalog</h1>
                 <table>
