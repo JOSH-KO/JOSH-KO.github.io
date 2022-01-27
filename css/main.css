@@ -3,6 +3,11 @@ body {
     width: 70%;
     background-color: powderblue;
 }
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -52,3 +57,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
