@@ -9,8 +9,8 @@
         <html>
             <body>
                 <h1>Plant Catalog</h1>
-                <table border="1">
-                    <tr bgcolor="#9acd32">
+                <table>
+                    <tr>
                         <th>Common Name</th>
                         <th>Botanical Name</th>
                         <th>Zone</th>
