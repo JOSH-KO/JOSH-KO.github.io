@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
-<?xml-stylesheet href="https://josh-ko.github.io/css/main.css" type="text/css"?>
+<?xml-stylesheet href="https://josh-ko.github.io/css/main.css"?>
     
     <xsl:template match="/">
         <html>
