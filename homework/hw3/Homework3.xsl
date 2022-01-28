@@ -8,7 +8,7 @@
         <html>
             <head> 
                 <title>Plant Catalog</title>
-                <link href="https://josh-ko.github.io/css/main.css" rel="stylesheet" type="text/css"/>
+                <link href="/css/main.css" rel="stylesheet" type="text/css"/>
             </head>
             <body>
                 <h1>Plant Catalog</h1>
