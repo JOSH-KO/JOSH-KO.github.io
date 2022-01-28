@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <html>
             <head> 
-                <link href="http://josh-ko.github.io/css/main.css" rel="stylesheet" type="text/css"/>
+                <link rel="stylesheet" type="text/css" href="https://josh-ko.github.io/css/main.css" />
                 <title>Plant Catalog</title>
             </head>
             <body>
