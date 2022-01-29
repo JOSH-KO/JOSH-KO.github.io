@@ -4,29 +4,6 @@ body {
     background-color: powderblue;
 }
 
-table, th, td {
-  border: 1px solid black;
-}
-
-th, td {
-  padding: 15px;
-  text-align: left;
-}
-
-table {
-border-collapse: collapse;
-}
-
-tr:nth-child(2|4|6) {
-  background-color: Gainsboro;
-}
-
-tr:nth-child(1|2|5) {
-  background-color: #FFFFF0;
-}
-
-tr:hover {background-color: #FFD700;}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -57,8 +34,7 @@ h1 {
     height: 80px;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #FFD700;
-}
+    }
 
 p {
     font-size: 1.5em;
