@@ -29,6 +29,48 @@ a:hover {
     color: SteelBlue;
     text-shadow: 1px 1px 2px black, 0 0 25px Silver, 0 0 5px WhiteSmoke;
 }
+
+ table, th, td {
+ border: 1px solid black;
+ }
+
+ th, td {
+ padding: 8px;
+ }
+
+ table {
+ border-collapse: collapse;
+ }   
+
+tr:nth-child(2) {
+background-color: Gainsboro;
+}
+
+tr:nth-child(4) {
+background-color: Gainsboro;
+}
+
+
+tr:nth-child(6) {
+background-color: Gainsboro;
+}
+
+
+tr:nth-child(1) {
+background-color: #FFFFF0;
+}
+
+tr:nth-child(3) {
+background-color: #FFFFF0;
+}
+
+
+tr:nth-child(5) {
+background-color: #FFFFF0;
+}
+
+tr:hover {background-color: #FFD700;}
+
 h1 {
     width: 450px;
     height: 80px;
