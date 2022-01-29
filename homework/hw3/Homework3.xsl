@@ -11,7 +11,7 @@
                 <title>Plant Catalog</title>
             </head>
             <body>
-                <h1 stlye="color:#98FB98;">Plant Catalog</h1>
+                <h1>Plant Catalog</h1>
                 <table>
                     <tr>
                         <th>Common Name</th>
