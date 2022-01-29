@@ -9,6 +9,49 @@
             <head>
                 <link href="/css/main.css" rel="stylesheet" type="text/css"/>
                 <title>Plant Catalog</title>
+            <style>
+             table, th, td {
+             border: 1px solid black;
+             }
+
+             th, td {
+             padding: 18px;
+             }
+
+             table {
+             border-collapse: collapse;
+             }   
+             
+            tr:nth-child(2) {
+            background-color: Gainsboro;
+            }
+
+            tr:nth-child(4) {
+            background-color: Gainsboro;
+            }
+                
+                
+            tr:nth-child(6) {
+            background-color: Gainsboro;
+            }
+                
+                
+            tr:nth-child(1) {
+            background-color: #FFFFF0;
+            }
+                
+            tr:nth-child(3) {
+            background-color: #FFFFF0;
+            }
+
+                
+            tr:nth-child(5) {
+            background-color: #FFFFF0;
+            }
+                
+            tr:hover {background-color: #FFD700;}
+                
+            </style>
             </head>
             <body>
                 <h1>Plant Catalog</h1>
