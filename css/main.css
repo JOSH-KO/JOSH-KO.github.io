@@ -30,17 +30,17 @@ a:hover {
     text-shadow: 1px 1px 2px black, 0 0 25px Silver, 0 0 5px WhiteSmoke;
 }
 
- table, th, td {
- border: 1px solid black;
- }
+table, th, td {
+border: 1px solid black;
+}
 
- th, td {
- padding: 8px;
- }
+th, td {
+padding: 8px;
+}
 
- table {
- border-collapse: collapse;
- }   
+table {
+border-collapse: collapse;
+}   
 
 th {
 background-color: #98FB98;
@@ -70,7 +70,9 @@ td:nth-child(5) {
 background-color: #FFFFF0;
 }
 
-tr:hover {background-color: #FFD700;}
+tr, td:hover {
+background-color: #FFD700;
+}
 
 h1 {
     width: 450px;
