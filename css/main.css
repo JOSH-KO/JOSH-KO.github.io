@@ -8,9 +8,15 @@ table, th, td {
   border: 1px solid black;
 }
 
-tr:nth-child(even) {
-  background-color: #D6EEEE;
+table {
+border-collapse: collapse;
 }
+
+tr:nth-child(odd) {
+  background-color: Gainsboro;
+}
+
+tr:hover {background-color: #FFD700;}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -41,7 +47,8 @@ h1 {
     width: 450px;
     height: 80px;
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif'
+    color: #FFD700;
 }
 p {
     font-size: 1.5em;
