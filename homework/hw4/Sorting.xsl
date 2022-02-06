@@ -37,7 +37,7 @@
     
     <xsl:template match="Journal-Data"> 
         <xsl:apply-templates select="Journal">
-            <xsl:sort select="(Institution-Name)" order="descending" />
+            <xsl:sort select="(Institution-Name)" order="ascending" />
         </xsl:apply-templates>
     </xsl:template>
 
