@@ -10,4 +10,4 @@ Second, to sort ascending from Institution-Name, I took the output.xml and appli
 
 Finally, to get a html table from the sorted xml, I applied output.xsl to the Sorted.xml.
 
-The final product is Table.html
+The final product is output.html
