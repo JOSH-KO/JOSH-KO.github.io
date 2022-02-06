@@ -16,6 +16,12 @@
         </Journal>
     </xsl:template>
 
+    <xsl:template match="Journal-Name"> 
+        <Journal-Name>
+            <xsl:apply-templates/>
+        </Journal-Name>
+    </xsl:template>
+    
     <xsl:template match="URL"> 
         <URL>
             <xsl:apply-templates/>
