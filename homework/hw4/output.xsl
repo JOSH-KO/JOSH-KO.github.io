@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link href="/css/main.css" rel="stylesheet" type="text/css"/>
+                <link href="http://josh-ko.github.io/css/main.css" rel="stylesheet" type="text/css"/>
                 <title>Research Journals</title>
             </head>
             <body>
