@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Files xmlns="urn:isbn:1-931666-22-9">
+   <file>
+      <Question1_ID>InU-Ar-VAA1228</Question1_ID>
+      <Question2_Title>Richard A. Reuss papers, 1888-1993
+                </Question2_Title>
+      <Question3_YearRange>105</Question3_YearRange>
+      <Question4_encorders> Amanda Harlan</Question4_encorders>
+      <Question5_NumOfChanges>3</Question5_NumOfChanges>
+      <Question6_Extent>12 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington --Faculty --Archives.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington --Faculty --Correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Reuss,
+                                Richard A. --Archives.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Reuss,
+                                Richard A. --Correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Green,
+                                Archie --Correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Denisoff,
+                                R. Serge --Corresondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            McCulloh,
+                                Judith, 1935- --Correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Guthrie,
+                                Woody, 1912-1967.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Green, Archie.
+                                Correspondence. Selections.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Denisoff, R. Serge.
+                                Correspondence. Selections.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            McCulloh, Judith, 1935-
+                                --Correspondence. Selections.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Folklorists --Archives.
+                            
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Folklorists
+                                --Correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Folk songs --United States
+                                --Research.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Folk singers --United
+                                States.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Folk music --United
+                                States.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Civil rights demonstrations
+                                --United States --History --20th century --Sources.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Cold War --History
+                                --Sources.
+                        
+                    </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>562</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1307</Question1_ID>
+      <Question2_Title> Indiana School of Religion records,1910-1970
+            </Question2_Title>
+      <Question3_YearRange>60</Question3_YearRange>
+      <Question4_encorders> Amanda Harlan</Question4_encorders>
+      <Question5_NumOfChanges>3</Question5_NumOfChanges>
+      <Question6_Extent>4.6 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                  Indiana School of
+                  Religion --History --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Indiana School of
+                  Religion --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Indiana School of
+                  Religion --Records and correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Indiana School of
+                  Religion --Administration.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Disciples of Christ.
+                  Bloomington Bible Chair --History --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Disciples of Christ.
+                  Bloomington Bible Chair --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Disciples of Christ.
+                  Bloomington Bible Chair --Records and correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Disciples of Christ.
+                  Bloomington Bible Chair --Administration.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Disciples of Christ. Bloomington
+                  Bible Chair.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Todd, Joseph
+                  Clinton, 1879- --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Todd, Joseph Clinton,
+                  1879- --Correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Todd, Joseph Clinton, 1879-
+                  --Correspondence. Selections.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Religious education --Indiana
+                  --Bloomington --History --20th century --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Universities and colleges
+                  --Religion.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  College students --Religious life
+                  --Indiana --Bloomington --History --20th century --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Religion --Periodicals.
+                     
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>127</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1231</Question1_ID>
+      <Question2_Title>Indiana University Latino Cultural Center
+                    records, 1968-2003
+                </Question2_Title>
+      <Question3_YearRange>35</Question3_YearRange>
+      <Question4_encorders> Amanda Harlan</Question4_encorders>
+      <Question5_NumOfChanges>3</Question5_NumOfChanges>
+      <Question6_Extent>3 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>Advance notice is required for access.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                        
+                            Indiana
+                                University. Latino Cultural Center --History --Sources.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University. Latino Cultural Center --Records and
+                                correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University. Latino Cultural Center --Archives.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington. Latino Cultural Center --History
+                                --Sources.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington. Latino Cultural Center --Records and
+                                correspondence.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington. Latino Cultural Center
+                                --Archives.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University. Office of Latino Affairs --History --Sources.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington. Office of Latino Affairs --History
+                                --Sources.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana
+                                University, Bloomington --Students --Services for.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana University. Latino
+                                Cultural Center.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana University. Office
+                                of Latino Affairs.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana University,
+                                Bloomington. Office of Latino Affairs.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Indiana University,
+                                Bloomington. Office of Multicultural Affairs.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Chavez,
+                                Cesar, 1927- 
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Cisneros,
+                                Henry.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Hispanic Americans --Indiana
+                                --Bloomington --Periodicals.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Minority college students
+                                --Services for --Indiana --Bloomington.
+                        
+                    </Index_Term>
+         <Index_Term>
+                        
+                            Hola (Bloomington,
+                                Ind.)
+                        
+                    </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>117</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1364</Question1_ID>
+      <Question2_Title>Owen family collection, 1826-1967
+            </Question2_Title>
+      <Question3_YearRange>141</Question3_YearRange>
+      <Question4_encorders> Dina M. Kellams</Question4_encorders>
+      <Question5_NumOfChanges>3</Question5_NumOfChanges>
+      <Question6_Extent>.6 cubic feet 1 box</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                  Indiana University
+                  --Faculty --History --19th century --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen family --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Robert,
+                  1771-1858 --Correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Robert,
+                  1771-1858 --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Richard,
+                  1810-1890 --Correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Richard,
+                  1810-1890 --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, David Dale,
+                  1807-1860 --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Robert Dale,
+                  1801-1877 --Correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Robert Dale,
+                  1801-1877 --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Robert, 1771-1858.
+                  Correspondence. Selections.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Richard, 1810-1890.
+                  Correspondence. Selections.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Owen, Robert Dale, 1801-1877.
+                  Correspondence. Selections.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Family archives --Indiana.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Politicians --Indiana
+                  --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Politicians --Indiana
+                  --Correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Geologists --Indiana
+                  --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Geologists --Indiana
+                  --Correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Indiana --History
+                  --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  New Harmony (Ind.) --History
+                  --Sources.
+                     
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>40</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1363</Question1_ID>
+      <Question2_Title> Kirkman family collection, 1832-1931
+            </Question2_Title>
+      <Question3_YearRange>99</Question3_YearRange>
+      <Question4_encorders> Amanda Harlan</Question4_encorders>
+      <Question5_NumOfChanges>2</Question5_NumOfChanges>
+      <Question6_Extent>.6 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                     Kirkman, Joseph,
+                        1809-1879 --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Kirkman, Joseph,
+                        1809-1879 --Correspondence.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Coolidge, Irene
+                        Kirkman, b. 1843 --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Coolidge, Irene
+                        Kirkman, b. 1843 --Correspondence.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Kingston, Mary
+                        Coolidge --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Kingston, Mary
+                        Coolidge --Correspondence.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Kirkman, Joseph, 1809-1879.
+                        Correspondence. Selections.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Coolidge, Irene Kirkman, b. 1843.
+                        Correspondence. Selections.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Kingston, Mary Coolidge.
+                        Correspondence. Selections.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Kirkman family
+                        --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Family archives
+                        --Indiana.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Sheriffs --Indiana.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Deeds.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Financial records.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Indiana --History
+                        --Sources.
+                  
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>33</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1378</Question1_ID>
+      <Question2_Title>Conference on Problems of American Foreign Policy
+               records, 1950-1961
+            </Question2_Title>
+      <Question3_YearRange>11</Question3_YearRange>
+      <Question4_encorders/>
+      <Question5_NumOfChanges>2</Question5_NumOfChanges>
+      <Question6_Extent>1 cubic foot</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                  Conference on Problems of American
+                     Foreign Policy (1950-1956 : Indiana University) --Records and
+                     correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Conference on Problems of American
+                  Foreign Policy (1950-1956 : Indiana University) --History --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Conference on Problems of American
+                  Foreign Policy (1950-1956 : Indiana University) --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Conference on Problems of American Foreign Policy
+                  (1950-1956 : Indiana University).
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  United States --Foreign relations
+                  --1945-1953 --Congresses.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  United States --Foreign relations
+                  --1953-1961 --Congresses.
+                     
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>30</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1230</Question1_ID>
+      <Question2_Title>Theophilus A. Wylie papers, 1814-1992.</Question2_Title>
+      <Question3_YearRange>178</Question3_YearRange>
+      <Question4_encorders/>
+      <Question5_NumOfChanges>1</Question5_NumOfChanges>
+      <Question6_Extent>6.2 cubic feet (7 boxes) </Question6_Extent>
+      <Question7_Access_Restrictions>Collection is open for research. Advance notice required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+						
+							Wylie,
+								Theophilus Adam, 1810-1895 --Archives. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Wylie,
+								Theophilus Adam, 1810-1895 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Wylie,
+								Theophilus Adam, 1810-1 895 --Diaries. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Read,
+								Daniel, 1805-1878 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Owen,
+								Richard, 1810-1878 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Foster,
+								John Watson, 1836-1917 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 McLeod,
+								John Neil, 1806-1874 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Wylie,
+								Rebecca Dennis, 1812-1913 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Wylie,
+								Susan Julia Maria, 1822 --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Hamill,
+								Robert C. --Correspondence. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Daily,
+								William M. (William Mitchell), 1812-1877 --Correspondence.
+							
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Wylie,
+								Theodore W. J. (Theodore William John), 1818-1897 --Correspondence.
+							
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Indiana
+								College --History --Sources. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Indiana
+								College --Faculty --Archives. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Indiana
+								University --History --19th century --Sources. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Indiana
+								University --Faculty --Archives. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Reformed
+								Presbyterian Church --Clergy --Archives. 
+						
+					</Index_Term>
+         <Index_Term>
+							 Diarists --Indiana
+								--Bloomington --Archives. 
+						
+					</Index_Term>
+         <Index_Term>
+						
+							 Universities and colleges
+								--Indiana --Bloomington --Faculty --History --19th century
+								--Sources. 
+						
+					</Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>27</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1229</Question1_ID>
+      <Question2_Title> Spectator records,1966-1970
+            </Question2_Title>
+      <Question3_YearRange>4</Question3_YearRange>
+      <Question4_encorders> Amanda Harlan</Question4_encorders>
+      <Question5_NumOfChanges>4</Question5_NumOfChanges>
+      <Question6_Extent>1.8 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                     Indiana University
+                        --Students --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Indiana University
+                        --Students --Periodicals.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Retherford,
+                        James.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Baker,
+                        Rob.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     King, Michael
+                        John.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     College students --Indiana
+                        --Bloomington --Archives. 
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     College students' writings,
+                        American --Indiana --Bloomington.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     College publications --Indiana
+                        --Bloomington --History --20th century --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Student newspapers and periodicals
+                        --Indiana --Bloomington --History --20th century --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Student publications --Indiana
+                        --Bloomington --History --20th century --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Underground press --Indiana
+                        --Bloomington --History --20th century --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Underground press publications
+                        --Indiana --Bloomington --History --20th century --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Spectator (Bloomington, Ind.) --History
+                        --Sources.
+                  
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>26</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1259</Question1_ID>
+      <Question2_Title>Indiana University Alpha Pi Zeta records, 1924-1950
+            </Question2_Title>
+      <Question3_YearRange>26</Question3_YearRange>
+      <Question4_encorders> Dina M. Kellams</Question4_encorders>
+      <Question5_NumOfChanges>2</Question5_NumOfChanges>
+      <Question6_Extent>.2 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                  Alpha Pi Zeta
+                  (Indiana University) --History --Sources.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Alpha Pi Zeta
+                  (Indiana University) --Records and correspondence.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Alpha Pi Zeta
+                  (Indiana University) --Archives.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Indiana University
+                  --Faculty --Intellectual life --20th century.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Indiana University
+                  --Students --Intellectual life --20th century.
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Social sciences --Societies, etc.
+                  --History --20th century --Sources. 
+                     
+               </Index_Term>
+         <Index_Term>
+                  
+                  Social scientists --Indiana
+                  --Archives.
+                     
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>12</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+   <file>
+      <Question1_ID>InU-Ar-VAA1272</Question1_ID>
+      <Question2_Title>Indiana University Adelphian Society minutes and
+               by-laws, 1858-1859
+            </Question2_Title>
+      <Question3_YearRange>1</Question3_YearRange>
+      <Question4_encorders> Elia Van Lith</Question4_encorders>
+      <Question5_NumOfChanges>3</Question5_NumOfChanges>
+      <Question6_Extent>.2 cubic feet</Question6_Extent>
+      <Question7_Access_Restrictions>This collection is open for research.|Advance notice is required.</Question7_Access_Restrictions>
+      <Question8_Index_Terms>
+         <Index_Term>
+                  
+                     Adelphian Society
+                        (Indiana University) --History --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Adelphian Society
+                        (Indiana University) --By-laws.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Adelphian Society
+                        (Indiana University) --Records and correspondence.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Adelphian Society
+                        (Indiana University) --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Erolathian Society
+                        (Indiana University) --History --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Erolathian Society
+                        (Indiana University) --Records and correspondence.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Erolathian Society
+                        (Indiana University) --By-laws.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Erolathian Society
+                        (Indiana University) --Archives.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Indiana University
+                        --Students --Intellectual life.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Indiana University
+                        --Students --Social life and customs.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Erolathian Society (Indiana
+                        University).
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Debates and debating --Indiana
+                        --Bloomington --Societies, etc. --History --19th century
+                        --Sources.
+                  
+               </Index_Term>
+         <Index_Term>
+                  
+                     Religious disputations --Indiana
+                        --Bloomington --History --19th century --Sources.
+                  
+               </Index_Term>
+      </Question8_Index_Terms>
+      <Question9_NumOfFiles>2</Question9_NumOfFiles>
+
+(:Question 10 - I assumed by the use of "these" that you were referring to the volume of collections based on the number of files which was computed in question 9. For that I used an Order By operation by descending to have the largest file size structure as the first result and have results decrease in file size progressively. If you wanted to do the same thing but with physical extent, I would replace the current Order by text with the coreoperations in Question 6 - which I tried copying here but kept processing as a cubric foot even within a comment -  and still sort by descending:)
+
+</file>
+</Files>
