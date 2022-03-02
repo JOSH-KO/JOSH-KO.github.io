@@ -60,7 +60,7 @@ h1 {
     height: 80px;
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    align: center;
+    text-align: center;
     }
 
 p {
