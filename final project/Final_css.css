@@ -2,6 +2,9 @@
 
 body {
     background-color: WhiteSmoke;
+     margin: 60px auto;
+    width: 70%;
+    Align: center;
 }
 
 a:link {
@@ -40,7 +43,7 @@ background-color: DarkGrey;
 }
 
 td:nth-child(even) {
-background-color: DeepSkyBlue;
+background-color: SkyBlue;
 }
 
 td:nth-child(odd) {
@@ -48,7 +51,7 @@ background-color: WhiteSmoke;
 }
 
 td:hover {
-background-color: PowderBlue;
+background-color: Moccasin;
 }
 
 h1 {
