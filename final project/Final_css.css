@@ -8,7 +8,7 @@ body {
 }
 
 a:link {
-  color: Gold;
+  color: MidnightBlue;
 }
 
 a:visited {
@@ -51,7 +51,7 @@ td:nth-child(odd) {
 background-color: WhiteSmoke;
 }
 
-tr:hover {
+hover {
 background-color: Gold;
 }
 
