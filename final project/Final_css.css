@@ -31,22 +31,13 @@ th {
 background-color: DarkGrey;
 }
 
-td:nth-child(2) {
+td:nth-child(even) {
 background-color: Gainsboro;
 }
 
-td:nth-child(4) {
-background-color: Gainsboro;
-}
-
-td:nth-child(6) {
-background-color: Gainsboro;
-}
-
-td:nth-child(1,3,5,7) {
+td:nth-child(odd) {
 background-color: WhiteSmoke;
 }
-
 
 tr:hover {
 background-color: PowderBlue;
