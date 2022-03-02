@@ -27,7 +27,7 @@ nav ul li, footer ul li {
 }
 
 table, th, td {
-border: 1px solid black;
+border: 2px solid black;
 }
 
 th, td {
@@ -50,7 +50,7 @@ td:nth-child(odd) {
 background-color: WhiteSmoke;
 }
 
-td:hover {
+th:hover {
 background-color: Moccasin;
 }
 
