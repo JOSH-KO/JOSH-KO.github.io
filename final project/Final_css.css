@@ -8,7 +8,7 @@ body {
 }
 
 a:link {
-  color: GoldenRod;
+  color: Gold;
 }
 
 a:visited {
@@ -40,18 +40,19 @@ border-collapse: collapse;
 
 th {
 background-color: DarkGrey;
+    position: sticky;
 }
 
 td:nth-child(even) {
-background-color: SkyBlue;
+background-color: AliceBlue;
 }
 
 td:nth-child(odd) {
 background-color: WhiteSmoke;
 }
 
-th:hover {
-background-color: Moccasin;
+tr:hover {
+background-color: Gold;
 }
 
 h1 {
