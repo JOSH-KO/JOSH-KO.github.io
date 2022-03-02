@@ -43,20 +43,13 @@ td:nth-child(6) {
 background-color: Gainsboro;
 }
 
-td:nth-child(1) {
-background-color: #FFFFF0;
+td:nth-child(1,3,5,7) {
+background-color: WhiteSmoke;
 }
 
-td:nth-child(3) {
-background-color: #FFFFF0;
-}
 
-td:nth-child(5) {
-background-color: #FFFFF0;
-}
-
-tr, td:hover {
-background-color: #FFD700;
+tr:hover {
+background-color: PowderBlue;
 }
 
 h1 {
