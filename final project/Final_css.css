@@ -7,7 +7,7 @@ body {
 }
 
 a:link {
-  color: PowderBlue;
+  color: SteelBlue;
 }
 
 a:visited {
@@ -42,7 +42,7 @@ background-color: DarkGrey;
 }
 
 td:nth-child(even) {
-background-color: Gainsboro;
+background-color: PowderBlue;
 }
 
 td:nth-child(odd) {
@@ -58,6 +58,7 @@ h1 {
     height: 80px;
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
     }
 
 p {
