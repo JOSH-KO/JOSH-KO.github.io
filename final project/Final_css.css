@@ -108,6 +108,7 @@ only screen and (max-width: 1600px) {
     padding-right: 40px;
     white-space: nowrap;
     margin-left: -150px;
+    font-weight: bold; 
   }
     th {
         display: none;
