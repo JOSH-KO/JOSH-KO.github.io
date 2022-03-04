@@ -27,6 +27,12 @@ margin-right:auto;
 Width:75%;
 }   
 
+iframe {
+    display:block;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
 th {
 background-color: Gold;
     position: sticky;
@@ -90,6 +96,7 @@ only screen and (max-width: 1600px) {
     position: relative;
     padding-left: 200px;
     margin-left: 150px;
+    word-wrap: break-word; 
   }
   td:before {
     position: absolute;
