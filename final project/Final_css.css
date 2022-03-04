@@ -80,6 +80,7 @@ h1 {
     
 /* this hopefully fixes some of the resizing issues and potential use by mobile devices */
 
+
  @media
 only screen and (max-width: 1600px) {
   table, thead, tbody, th, td, tr {
@@ -105,10 +106,6 @@ only screen and (max-width: 1600px) {
     position: absolute;
     top: 10px;
     left: 1px;
-    width: 150px;
-    padding-right: 1px;
-    white-space: nowrap;
-    margin-left: -0px;
     font-weight: bold; 
   }
     th {
@@ -126,4 +123,3 @@ only screen and (max-width: 1600px) {
   td:nth-of-type(10):before { content: "Email";background-color: WhiteSmoke;}
   td:nth-of-type(11):before { content: "Location";background-color: AliceBlue;}
 }  
-
