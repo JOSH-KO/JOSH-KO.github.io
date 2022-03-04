@@ -93,33 +93,36 @@ only screen and (max-width: 1600px) {
   }
   
   tr { border: 1px solid #ccc; }
- 
   td {
     border: none;
     border-bottom: 1px solid #eee;
     position: relative;
     padding-left: 200px;
-    margin-left: 0px;
+    margin-left: 150px;
     word-wrap: break-word; 
   }
   td:before {
     position: absolute;
-    top: 10px;
-    left: 1px;
+    top: 12px;
+    left: 6px;
+    width: 100px;
+    padding-right: 40px;
+    white-space: nowrap;
+    margin-left: -150px;
     font-weight: bold; 
   }
     th {
         display: none;
     }    
-  td:nth-of-type(1):before { content: "Facility"; background-color: WhiteSmoke;}
-  td:nth-of-type(2):before { content: "City"; background-color: AliceBlue;}
-  td:nth-of-type(3):before { content: "County"; background-color: WhiteSmoke;}
-  td:nth-of-type(4):before { content: "AirportID";background-color: AliceBlue;}
-  td:nth-of-type(5):before { content: "FAA Site Number";background-color: WhiteSmoke;}
-  td:nth-of-type(6):before { content: "State Class";background-color: WhiteSmoke;}
-  td:nth-of-type(7):before { content: "FAA Class";background-color: AliceBlue;}
-  td:nth-of-type(8):before { content: "Phone Number";background-color: WhiteSmoke;}
-  td:nth-of-type(9):before { content: "Manager Name";background-color: AliceBlue;}
-  td:nth-of-type(10):before { content: "Email";background-color: WhiteSmoke;}
-  td:nth-of-type(11):before { content: "Location";background-color: AliceBlue;}
-}  
+  td:nth-of-type(1):before { content: "Facility"; }
+  td:nth-of-type(2):before { content: "City"; }
+  td:nth-of-type(3):before { content: "County"; }
+  td:nth-of-type(4):before { content: "AirportID";}
+  td:nth-of-type(5):before { content: "FAA Site Number";}
+  td:nth-of-type(6):before { content: "State Class";}
+  td:nth-of-type(7):before { content: "FAA Class";}
+  td:nth-of-type(8):before { content: "Phone Number";}
+  td:nth-of-type(9):before { content: "Manager Name";}
+  td:nth-of-type(10):before { content: "Email";}
+  td:nth-of-type(11):before { content: "Location";}
+}   
