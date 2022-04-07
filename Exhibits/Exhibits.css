@@ -1,15 +1,24 @@
 
-div.nav {
-display: block;
-  width: 200px;
-  background-color: #f1f1f1;
-  text-align: left;
-  margin: 0;
-  padding: 0;
-   list-style-type: none;
-}
-
-div.nav:hover {
-  background-color:#555;
+.nav {
+  width: 100vw;
+  height: 40vh;
+  background-color: #3944F7;
+  font-size: x-large;
   color: white;
+  text-align: center;
+  margin: 10px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  place-items: center;
+}
+          
+.btn {
+  color: white;
+  background-color: #38CC77;
+  height: 40px;
+  width: 90px;
+  padding: 2px;
+  border: 2px solid black;
+  text-decoration: none;
 }
