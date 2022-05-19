@@ -80,6 +80,7 @@ h1 {
     height: 60px;
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+     line-height: 1em;
     }
 
 lb {
@@ -88,7 +89,7 @@ lb {
 
 p {
     font-size: 1em;
-    line-height: 10em;
+    line-height: 1em;
     color: #333;
 }
 footer {
