@@ -1,5 +1,4 @@
 body {
-    margin: 60px auto;
     width: 70%;
     background-color: powderblue;
 }
@@ -89,7 +88,7 @@ lb {
 
 p {
     font-size: 1em;
-    line-height: 1em;
+    line-height: 10em;
     color: #333;
 }
 footer {
