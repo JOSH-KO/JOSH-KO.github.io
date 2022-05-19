@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead audience="internal" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 
+    http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+    repositoryencoding="iso15511">
+    <eadid>VAE2575</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Thomas Dustin Papers</titleproper>
+        <titleproper>Finding Aid of the Thomas Dustin Papers <num>CRA113</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Indiana University Northwest, Calumet Regional Archives</publisher>
+        <p><date>December 1982</date></p>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>Revised February 2000, December 2009, May 2011</p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-03-31 11:21:23 -
+          0400</date>.</creation>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date normal="2022-03-31">March 31, 2022</date>
+        <item>Creation of EAD</item>
+      </change>
+      <change audience="internal">
+        <date normal="2011-05">May 2011</date>
+        <item>Revised</item>
+      </change>
+      <change audience="internal">
+        <date normal="2009-12">December 2009</date>
+        <item>Revised</item>
+      </change>
+      <change audience="internal">
+        <date normal="2000-02">February 2000</date>
+        <item>Revised</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Indiana University Northwest, Calumet Regional Archives</corpname>
+        <address>
+          <addressline>John W. Anderson Library</addressline>
+          <addressline>3400 Broadway</addressline>
+          <addressline>Gary, Indiana 46408, United States</addressline>
+          <addressline>Email: smcshane@iun.edu</addressline>
+          <addressline>Phone: 219-980-6628</addressline>
+        </address>
+        <extref xlink:href="http://cra.sitehost.iu.edu/index.shtml">http://cra.sitehost.iu
+          .edu/index.shtml</extref>
+      </repository>
+      <origination label="Creator"><persname
+          authfilenumber="http://id.loc.gov/authorities/names/n92083320" source="lcnaf">Dustin,
+          Thomas E.</persname></origination>
+      <unittitle>Thomas Dustin Papers</unittitle>
+      <unitid>CRA113</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10 linear feet</extent>
+        <extent altrender="carrier">13 boxes</extent>
+      </physdesc>
+      <unitdate normal="1943/1981" type="inclusive">1943-1981</unitdate>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <abstract label="Abstract">The Thomas Dustin Collection contains correspondence, press
+        releases, testimonies, speeches, printed materials, and newsclippings documenting the
+        establishment and history of the Indiana Dunes National Lakeshore from 1955 to 1981. Records
+        constitute items from the Save the Dunes Council, to which Thomas E. Dustin was the public
+        relations director.</abstract>
+    </did>
+    <bioghist audience="internal" id="aspace_da09779ba3cae18aba0169f6d7592f10">
+      <head>Biographical / Historical</head>
+      <p>In 1952, Mrs. Dorothy Buell of Ogden Dunes, Indiana, founded the Save the Dunes Council. As
+        the Council's first president, Mrs. Buell declared that the Indiana Dunes areas along Lake
+        Michigan exhibited a unique natural and ecological environment and deserved preservation
+        from potential industrial development. Along with several other local residents, Mrs. Buell
+        began a fifteen year campaign to "save the Dunes." While the Council organized plans,
+        developed strategy, and recruited volunteers, a movement to establish a Lake Michigan harbor
+        at Burns Ditch developed simultaneously, following the creation of the St. Lawrence Seaway.
+        By the late 1950's, two opposed viewpoints regarding the proper use of the Indiana Dunes
+        areas had arisen to provide both Indiana and the entire nation with one of the most
+        controversial issues of the 1960's.</p>
+      <p>Although the Council attempted to obtain the support of Indiana public officials, most
+        Indiana legislators believed that a port complex would result in greater economic growth for
+        the state. The Council did receive, however, the backing of Illinois Senator Paul Douglas,
+        and the senator from Illinois became the leading public figure to sponsor a Dunes national
+        lakeshore. In addition to Douglas, the Council welcomed the talents of several local
+        volunteers. First, attorney Edward Osann represented the Council in legal proceedings.
+        Herbert Read, a local architect, headed a team of engineers to study and analyze the
+        economic and engineering feasibility of the Burns Ditch port proposal. Finally, Thomas E.
+        Dustin directed the public relations activities of the Council from 1958 to 1966, using his
+        publicity skills to further the Council's cause. Dustin graduated from Iowa State University
+        as a technical journalist and became president of a Fort Wayne advertising firm, Engineering
+        Writers. As an active conservationist and naturalist, Dustin promoted the Council's goals to
+        create a Dunes national park during the most controversial period in the Council's history.
+        In addition, the Council obtained the support of natural scientists and economic advisors as
+        the campaign to save the Dunes gained momentum.</p>
+      <p>When the Council presented a report to the U.S. Budget Bureau declaring an unfavorable
+        cost/benefit ratio for a Burns Ditch port, the Dunes supporters received backing from
+        several prominent public officials, including the Kennedy Administration. The Council's
+        volunteers intensified the publicity campaign, writing letters to Congressmen, newspapers
+        editors, conservationists, scientists, and concerned citizens, speaking before community
+        groups, and testifying before numerous Congressional committees. Finally, in 1964,
+        legislators proposed a park-port compromise bill, comprising a federally funded port project
+        tied to a provision for a Dunes national park to secure passage. Senators Birch Bayh and
+        Vance Hartke of Indiana joined Senator Douglas in sponsoring the compromise bill, and the
+        Senate passed the package in 1965, sending the bill to the House of Representatives. With
+        the backing of Indiana Congressmen Roush and Madden and Arizona's Morris Udall, the 89th
+        Congress authorized the establishment of a 5,800 acre Indiana Dunes National Lakeshore in
+        October, 1966. Thomas Dustin served as the first president of the Indiana Dunes National
+        Lakeshore Advisory Commission created to administer the new park.</p>
+      <p>In later years, the Save the Dunes Council worked to expand the park, and the Congress
+        added significant parcels to the original Lakeshore. In 1976, Congress preserved 3,600 acres
+        while President Carter signed a Dunes bill in December, 1980, adding 488 acres to the
+        Lakeshore. Today, thirty years after Dorothy Buell founded the Save the Dunes Council, the
+        Council continues to work for preservation of a 720 acre "Green Belt" adjacent to the park.
+        Thomas Dustin, one of the most influential volunteers in the Save the Dunes movement, later
+        summed up the feeling among his fellow conservationists as he noted, "... inland, in the
+        troughs between the dunes, there will be this island of grace even after the megalopolis has
+        completed its rush around the lower Great Lakes from Milwaukee to Buffalo."</p>
+    </bioghist>
+    <scopecontent audience="internal" id="aspace_9ad49fece90f1daeed544dede3e35d39">
+      <head>Scope and Contents</head>
+      <p>A valuable source for the study of environmental movements and the history of one of the
+        most controversial issues in the Calumet Region, the Dustin Collection contains materials
+        documenting the establishment and history of the Indiana Dunes National Lakeshore from 1955
+        to 1981. Records generated by the Save the Dunes Council, particularly the Council's public
+        relations director, Thomas E. Dustin, constitute the collection. The collection comprises
+        approximately four major record series: correspondence, press releases, testimony, and
+        speeches, printed material, and newsclippings.</p>
+      <p>A significant and comprehensive series of Council correspondence (1958--1981) details the
+        efforts of the Save the Dunes Council to convince legislators, corporate representatives,
+        and the public of the wisdom of designating the Indiana Dunes as a national park.
+        Correspondence encompasses not only Mr. Dustin's outgoing and incoming letters but also
+        embraces Council newsletters, petitions, and reports. The correspondence identifies various
+        parties and their views regarding the park proposal, such as Presidents of the United
+        States, members of Congress, the U.S Department of the Interior officials, numerous wildlife
+        and conservation groups, and the news media. Also, the series contains local industry views
+        of the Dunes preservation campaign, particularly with a sub-series of correspondence
+        focusing upon the issue of a Lake Michigan port plan at Burns Ditch in Porter County to
+        boost the state's industrial growth. In addition, the correspondence provides information on
+        Council planning and strategy, and includes documentation of the many bills presented in
+        Congress to create an Indiana Dunes National Lakeshore. Later correspondence (1970-1981)
+        records the problems of developing the park, defining a balance between public use and
+        ecological preservation. Also, the recent correspondence highlights efforts to expand the
+        Lakeshore in the 1970's and furnishes information on the Bailly nuclear plant
+        controversy</p>
+      <p>A second series including press releases, hearing testimony, and speeches (1959-1966)
+        details the public campaign of the Save the Dunes Council to rally support for its cause.
+        Press releases provide good documentation of the Council's media skills and complement the
+        more thorough information recorded in the correspondence. The series retains rough drafts of
+        reports, speeches, and releases as well as miscellaneous strategy notes of Council leaders.
+        Speeches highlight the arguments used by the Council to preserve the Dunes while hearing
+        testimony not only comprises proponents' views of the national lakeshore proposal, but also
+        provides insight into opponents' opinions regarding a national park. The testimony includes
+        statements by U.S. senators, corporation representatives, conservation groups, and private
+        citizens before numerous Congressional committees in the early 1960's.</p>
+      <p>A large series of newsclippings (1958-1974), arranged chronologically, supplements the
+        first two major series in the collection. Sources for the clippings include the Gary
+        Post-Tribune, the Fort Wayne Journal-Gazette, the Valparaiso Vidette-Messenger, the Hammond
+        Times, the Chicago Sun-Times, and the Chicago Tribune, along with several national
+        magazines. The clippings provide additional information on the progress and problems
+        involved in the Dunes controversy and encompass the viewpoint of the news media and local
+        public opinion of the park-industrialization issues.</p>
+      <p>Finally, a large series of printed materials contains reports, studies, master plans, and
+        other publications dealing with topics ranging from the ecology of the Dunes areas to uses
+        of natural resources. Although these records contain minimal data on the Save the Dunes
+        Council, this series is useful for persons interested in past environmental and recreational
+        studies.</p>
+      <p>In addition to the four major series, the collection retains reports, correspondence, and
+        some minutes from the Indiana Dunes Advisory Commission, created upon the establishment of
+        the National Lakeshore in 1966. The Commission records detail issues such as park
+        administration, property rezoning, nature studies, and engineering reports and reveals data
+        on initial problems of the new lakeshore park. Also, the Dustin Collection embraces a small
+        series of photographs, furnishing a visual record of the Dunes in the 1960's and 1970's.
+        Finally, the collection contains a series of oversize material such as publicity items and
+        maps.</p>
+      <p>Persons interested in the events leading up to the establishment of the Indiana Dunes
+        National Lakeshore as well as initial administrative operations of the park will find useful
+        materials in the Dustin Collection. Researchers should note that a brief history of the
+        Dunes Lakeshore effort and a short biography of Thomas E. Dustin are located in Box 1, File
+        Folder 1, and in the Lindsey Papers (CRA #118). The Calumet Regional Archives retains
+        additional collections related to local environmental movements including the Bailly
+        Alliance Records (CRA #23), the Edward Newell Papers (CRA #64), the James Newman Papers (CRA
+        #73), the Community Action to Reverse Pollution Records (CRA #99), and the A.A. Lindsey
+        Papers (CRA #118). </p>
+    </scopecontent>
+    <userestrict audience="internal" id="aspace_ac3a592f097dfe877bd96f6692528ff4">
+      <head>Conditions Governing Use</head>
+      <p>Property rights in the collection are held by the Calumet Regional Archives; literary
+        rights are dedicated to the public.</p>
+    </userestrict>
+    <accessrestrict audience="internal" id="aspace_c7155e551213ed8431b8fdc623286cf9">
+      <head>Conditions Governing Access</head>
+      <p>There are no restrictions on access to the collection.</p>
+    </accessrestrict>
+    <acqinfo audience="internal" id="aspace_ff4b348cb57e8ed7e01c8487f4ab7c70">
+      <head>Immediate Source of Acquisition</head>
+      <p>Mr. Thomas E. Dustin, former public relations director for the Save the Dunes Council,
+        deposited the Dustin Collection in the Calumet Regional Archives on September 14, 1982.</p>
+    </acqinfo>
+    <relatedmaterial audience="internal" id="aspace_e1f4c5362560c7e8043926e1fc397af7">
+      <head>Related Materials</head>
+      <p>Researchers should note that a brief history of the Dunes Lakeshore effort and a short
+        biography of Thomas E. Dustin are located in Box 1, File Folder 1, and in the Lindsey Papers
+        (CRA #118). The Calumet Regional Archives retains additional collections related to local
+        environmental movements including the Bailly Alliance Records (CRA #23), the Edward Newell
+        Papers (CRA #64), the James Newman Papers (CRA #73), the Community Action to Reverse
+        Pollution Records (CRA #99), and the A.A. Lindsey Papers (CRA #118)</p>
+    </relatedmaterial>
+    <processinfo audience="internal" id="aspace_eb095d9e1ae5a72835cda96ef68142a3">
+      <head>Processing Information</head>
+      <p>Processed by: Stephen McShane. Date: <date normal="1982-10/1982-12">October-December, 1982
+        </date>.</p>
+    </processinfo>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh95004305" source="lcsh"
+        >Indiana Dunes National Park (Ind.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh93004752" source="lcsh"
+        >Environmentalism</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008005644" source="lcsh"
+        >Indiana, Northwest</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090045" source="lcsh"
+        >National parks and reserves</subject>
+      <geogname role="subject" audience="internal"
+        authfilenumber="http://vocab.getty.edu/page/tgn/7013797" source="TGN">Gary (inhabited
+        place)</geogname>
+      <corpname authfilenumber="
+                http://id.loc.gov/authorities/names/n85343230" source="LCNAF" role="subject"
+        >Save the Dunes Council</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 audience="internal" id="aspace_e4a8e096270e6ad0a9ffc27ce4af6546" level="series">
+        <did>
+          <unittitle>Papers</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype 
+            spaceoccupied">142 folders</extent></physdesc>
+          <physdesc altrender="whole"><extent altrender="materialtype 
+            spaceoccupied">6 boxes</extent></physdesc>
+          <unitdate normal="1955/1981" type="inclusive">1955-1981</unitdate>
+        </did>
+        <c02 audience="internal" id="aspace_1e776aa1358e693c1cef2095ffb00b33" level="file">
+          <did>
+            <unittitle>Historical Information</unittitle>
+            <unitdate normal="1961/1961">1961</unitdate>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container id="aspace_5427f3d1a3eedf3745ed49cc74e7bd8b" label="file" type="Box"
+              >1</container>
+            <container id="aspace_aaca27c46f3f63801fb63f47dbbae240"
+              parent="aspace_5427f3d1a3eedf3745ed49cc74e7bd8b" type="Folder">1</container>
+          </did>
+          <c03 audience="internal" id="aspace_3141a51295c3b693b24e2dea16655171" level="item">
+            <did>
+              <unittitle>Article, "The Battle of the Indiana Dunes," by Thomas E. Dustin, in
+                Citizens Make the Difference: Case Studies of Environmental Action</unittitle>
+              <unitdate normal="1973/1973">1973</unitdate>
+              <container id="aspace_3f389b307adfc1c8a1c72b754e52ead4" label="item" type="Box"
+                >1</container>
+              <container id="aspace_1814d3340e761e8d2594696e703441c0"
+                parent="aspace_3f389b307adfc1c8a1c72b754e52ead4" type="Folder">1a</container>
+            </did>
+          </c03>
+        </c02>
+        <c02 audience="internal" id="aspace_e742af9306b996681e036fdab0975dc4" level="file">
+          <did>
+            <unittitle>Save the Dunes Council Policy Statements</unittitle>
+            <unitdate normal="1960/1960">1960</unitdate>
+            <container id="aspace_5a8ef7fde10b2608e4d4ae5879cc6f3a" label="file" type="Box"
+              >1</container>
+            <container id="aspace_f74c664271fefe28d341c9b42506974e"
+              parent="aspace_5a8ef7fde10b2608e4d4ae5879cc6f3a" type="Folder">2</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_bed2977f6d360a0b07181467ade1730e" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1958/1962" type="inclusive">1958-1962</unitdate>
+            <container id="aspace_b54e36a4e3be63053e20460811fb4c73" label="file" type="Box"
+              >1</container>
+            <container id="aspace_40a2d5593afa2d85e10bfd98f59150b7"
+              parent="aspace_b54e36a4e3be63053e20460811fb4c73" type="Folder">3-21</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_a431c17b3c515a302f658b093384bda9" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <container id="aspace_461184b684d69ad8bf039adc275910eb" label="file" type="Box"
+              >2</container>
+            <container id="aspace_2d5fa4b6bd1b25cb76b17bb89205b598"
+              parent="aspace_461184b684d69ad8bf039adc275910eb" type="Folder">1-23</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_0fdcc4a8a7da0f028818ae1c8c00c9a8" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1966/1976" type="inclusive">1966-1976</unitdate>
+            <container id="aspace_be1976ddda12b0dcaaeb07c9bdc35002" label="file" type="Box"
+              >3</container>
+            <container id="aspace_cbc78a9758c872d29cf88b83cdf6ba64"
+              parent="aspace_be1976ddda12b0dcaaeb07c9bdc35002" type="Folder">1-18</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_3df12ff917f50e38b019b2d9f35c3ce5" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1977/1981" type="inclusive">1977-1981</unitdate>
+            <container id="aspace_4d7e7176f542458bea151858f9a2892a" label="file" type="Box"
+              >4</container>
+            <container id="aspace_f63e8467424c5a3dfcda06c1a1b8d504"
+              parent="aspace_4d7e7176f542458bea151858f9a2892a" type="Folder">1-6</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_a993963cf2f93a1f4de05068cb30f928" level="file">
+          <did>
+            <unittitle>Lane Bryant Awards Correspondence</unittitle>
+            <unitdate normal="1961/1967" type="inclusive">(1961-1967)</unitdate>
+            <container id="aspace_fb45204fa3354d00ff39fffdf1a99c45" label="file" type="Box"
+              >4</container>
+            <container id="aspace_2340796df2f677bf57e8d2cfec9db9c3"
+              parent="aspace_fb45204fa3354d00ff39fffdf1a99c45" type="Folder">7</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_db188433650395764fa8aad485c46bca" level="file">
+          <did>
+            <unittitle>Correspondence Regarding Bethlehem Steel Land</unittitle>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_b716b175d84a124251e9bd2149fdb27e" label="file" type="Box"
+              >4</container>
+            <container id="aspace_c789939061bdbb764c5b1004047a5aa0"
+              parent="aspace_b716b175d84a124251e9bd2149fdb27e" type="Folder">8</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_e0f2df0d7bcfb46b41b2e5a6314df78e" level="file">
+          <did>
+            <unittitle>Professor Klotz Correspondence</unittitle>
+            <unitdate normal="1960/1962" type="inclusive">(1960-1962)</unitdate>
+            <container id="aspace_a6b27c5338eec76178debf0dc363ccca" label="file" type="Box"
+              >4</container>
+            <container id="aspace_6506449ba90c4a91f62baaf58261d53e"
+              parent="aspace_a6b27c5338eec76178debf0dc363ccca" type="Folder">9</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_f0fc07640e2e1568d033401c0fa67b39" level="file">
+          <did>
+            <unittitle>Professional letters</unittitle>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container id="aspace_6363879eae21f0053d67de6f200f7283" label="file" type="Box"
+              >4</container>
+            <container id="aspace_5a83c481f79de6868b7d2da8b505d524"
+              parent="aspace_6363879eae21f0053d67de6f200f7283" type="Folder">10</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_8ada117ae5e1f39a64badf8a2a699617" level="file">
+          <did>
+            <unittitle>Revetments correspondence</unittitle>
+            <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_ac20e6d3bec6ba08e038772aa0af926a" label="file" type="Box"
+              >4</container>
+            <container id="aspace_305378b66b83332f7e0b063b1d8e2785"
+              parent="aspace_ac20e6d3bec6ba08e038772aa0af926a" type="Folder">11</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_0022c75254586e2464850f2ca4fcfa2b" level="file">
+          <did>
+            <unittitle>Guard, Goodnight, Lindsey Correspondence</unittitle>
+            <unitdate normal="1962/1962">1962</unitdate>
+            <container id="aspace_54ae7745a97db90110e5242077639667" label="file" type="Box"
+              >4</container>
+            <container id="aspace_970688c9578ca2617c5c81cd56f81070"
+              parent="aspace_54ae7745a97db90110e5242077639667" type="Folder">12</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_fac7f380ec2393c6933c766a6de964da" level="file">
+          <did>
+            <unittitle>Resolutions</unittitle>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_238ddc9a495664ecce967fa42abef473" label="file" type="Box"
+              >4</container>
+            <container id="aspace_29dd40717ab8fa07d691547badfb764f"
+              parent="aspace_238ddc9a495664ecce967fa42abef473" type="Folder">13</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_f07b9f2d8bcf746c0b3425a83d047439" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
+            <container id="aspace_1b34995c5498feb4fa49c886f199a4cb" label="file" type="Box"
+              >4</container>
+            <container id="aspace_73dbf077e65980cda0fd999d165e040a"
+              parent="aspace_1b34995c5498feb4fa49c886f199a4cb" type="Folder">14-20</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_8822f340d220a2fbbc0e89c47f0fad03" level="file">
+          <did>
+            <unittitle>Press Releases</unittitle>
+            <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
+            <container id="aspace_92b332e5e660c73a21a6996ac0e13c82" label="file" type="Box"
+              >4</container>
+            <container id="aspace_2ffd198165723da2874fba1956a4d10e"
+              parent="aspace_92b332e5e660c73a21a6996ac0e13c82" type="Folder">21-27</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_ae786500e74f6172c2c9b73a71910829" level="file">
+          <did>
+            <unittitle>Petitions to the President</unittitle>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_9054f2d9ba741d3bb3af8a36c0fb9669" label="file" type="Box"
+              >5</container>
+            <container id="aspace_3147a6b5071dfbc5193308c9932016b3"
+              parent="aspace_9054f2d9ba741d3bb3af8a36c0fb9669" type="Folder">1</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_2b51a794568d906e2b557370a3c79ad1" level="file">
+          <did>
+            <unittitle>Dunes Bills</unittitle>
+            <unitdate normal="1957/1966" type="inclusive">(1957-1966)</unitdate>
+            <container id="aspace_686b8957cca2f20a439f8247a93e0852" label="file" type="Box"
+              >5</container>
+            <container id="aspace_6f86364de192ecb99a837b760a5d74f0"
+              parent="aspace_686b8957cca2f20a439f8247a93e0852" type="Folder">2</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_f259f4c3698538f7abbb2272f1bda370" level="file">
+          <did>
+            <unittitle>Senate Hearings Testimony</unittitle>
+            <unitdate normal="1962-02/1962-02">February, 1962</unitdate>
+            <container id="aspace_b76d36d36412e5e7d18abe2875c7a12e" label="file" type="Box"
+              >5</container>
+            <container id="aspace_eaf1589a83f2dc424ef5129fa1109b60"
+              parent="aspace_b76d36d36412e5e7d18abe2875c7a12e" type="Folder">3</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_472c8531262cade6652dda49a848ffff" level="file">
+          <did>
+            <unittitle>Army Corps of Engineers Hearings</unittitle>
+            <unitdate normal="1962-07/1962-07">July, 1962</unitdate>
+            <container id="aspace_c8c5e11b3222660a6a28504429332bc9" label="file" type="Box"
+              >5</container>
+            <container id="aspace_43ddd63a93cb1b1a01fb4d3f6d08ce6a"
+              parent="aspace_c8c5e11b3222660a6a28504429332bc9" type="Folder">4</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_b91ec5e6a81b71290946c807a7673887" level="file">
+          <did>
+            <unittitle>Hearings Statements, Indianapolis</unittitle>
+            <unitdate normal="1960/1969">196?</unitdate>
+            <container id="aspace_b355b68e4e9951e1ce914d502359b270" label="file" type="Box"
+              >5</container>
+            <container id="aspace_4358a0070a1d3e2c7c2de52e86b77533"
+              parent="aspace_b355b68e4e9951e1ce914d502359b270" type="Folder">5</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_47bdde4a607e70c5d45c39c7a74b2b59" level="file">
+          <did>
+            <unittitle>Senate Bill 2249 Hearings</unittitle>
+            <unitdate normal="1964-04/1964-04">March, 1964</unitdate>
+            <container id="aspace_4bf8898cc0c90fe09efc7f18b2aaf303" label="file" type="Box"
+              >5</container>
+            <container id="aspace_1ed1e26b5078542e6c6e627d25857169"
+              parent="aspace_4bf8898cc0c90fe09efc7f18b2aaf303" type="Folder">6-7</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_8b95fea4ec0f8f2a2b4f04bb5af9d733" level="file">
+          <did>
+            <unittitle>Valparaiso Hearings Materials</unittitle>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container id="aspace_de31143a49a88ea119cad80d28f5a906" label="file" type="Box"
+              >5</container>
+            <container id="aspace_4e2790d8effe3307258d6e45e0dc91f8"
+              parent="aspace_de31143a49a88ea119cad80d28f5a906" type="Folder">8</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_8dd4ea85a86aa25dd06b65e2bb2f398e" level="file">
+          <did>
+            <unittitle>HR.51 Hearings</unittitle>
+            <unitdate normal="1965-10/1965-10">October, 1965</unitdate>
+            <container id="aspace_43af2847ed08bc1fad0c84bb69c8fcc6" label="file" type="Box"
+              >5</container>
+            <container id="aspace_3bef55fa6b0afc244d78d54c783247d3"
+              parent="aspace_43af2847ed08bc1fad0c84bb69c8fcc6" type="Folder">9</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_087ace77be71866016cb649481f5a081" level="file">
+          <did>
+            <unittitle>S.360 Hearings</unittitle>
+            <unitdate normal="1965-02/1965-02">February, 1965</unitdate>
+            <container id="aspace_e1e3608a99bb48eaab83c40458b641e0" label="file" type="Box"
+              >5</container>
+            <container id="aspace_7c74ff857ed104b32c549e4ea14cd6e8"
+              parent="aspace_e1e3608a99bb48eaab83c40458b641e0" type="Folder">10</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_bfa83cb2b3cd1f945fbeb69610b78656" level="file">
+          <did>
+            <unittitle>HR. 51 Hearings</unittitle>
+            <unitdate normal="1966-04/1966-04">April, 1966</unitdate>
+            <container id="aspace_0ffa8489b92cc868199bee82c252cc6a" label="file" type="Box"
+              >5</container>
+            <container id="aspace_622170d78db3779b9ad2be1484e64acb"
+              parent="aspace_0ffa8489b92cc868199bee82c252cc6a" type="Folder">11</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_e0024623ecca25ed17c80df9222ae841" level="file">
+          <did>
+            <unittitle>Dunes Hearings Statements</unittitle>
+            <unitdate normal="1966/1966">1966</unitdate>
+            <container id="aspace_556a91e4f3d29b25c7522a76b9748bb4" label="file" type="Box"
+              >5</container>
+            <container id="aspace_887f48f7605fabde05ee3f86996f9610"
+              parent="aspace_556a91e4f3d29b25c7522a76b9748bb4" type="Folder">12</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_bf839eec74e2fe96265b0b51dbbb5569" level="file">
+          <did>
+            <unittitle>Interior Nomination Hearings</unittitle>
+            <unitdate normal="1969/1969">1969</unitdate>
+            <container id="aspace_71991c167c5fdc5180851e33e1b9de9b" label="file" type="Box"
+              >5</container>
+            <container id="aspace_f980d3e707936c0037d11de22397af67"
+              parent="aspace_71991c167c5fdc5180851e33e1b9de9b" type="Folder">13</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_23b37412d00d76cb6e4bbef56b76f649" level="file">
+          <did>
+            <unittitle>Dunes Commission</unittitle>
+            <unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate>
+            <container id="aspace_0ca7e40a233a776d0f1342cad76d2e58" label="file" type="Box"
+              >5</container>
+            <container id="aspace_26e5802b2cb83e54f6839eb1b7f2ef65"
+              parent="aspace_0ca7e40a233a776d0f1342cad76d2e58" type="Folder">14-25</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_439170df0c7f6845ac42034396c313af" level="file">
+          <did>
+            <unittitle>Dunes Commission</unittitle>
+            <unitdate normal="1970/1972" type="inclusive">1970-1972</unitdate>
+            <container id="aspace_fab1a975e8f486ee27ebed7b27a1b5fe" label="file" type="Box"
+              >6</container>
+            <container id="aspace_1a2b9300759ed0f773f56a68e26e071f"
+              parent="aspace_fab1a975e8f486ee27ebed7b27a1b5fe" type="Folder">1-4</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_59d681d23ebb25916d2f91c5ac1e82f7" level="file">
+          <did>
+            <unittitle>Dunes Park Expansion Promotion Manual</unittitle>
+            <unitdate certainty="circa" normal="1971/1971">1971?</unitdate>
+            <container id="aspace_59a31530c17f7713f0c6332f46654d18" label="file" type="Box"
+              >6</container>
+            <container id="aspace_524d060371f87525d1d48ecf1c0f1d36"
+              parent="aspace_59a31530c17f7713f0c6332f46654d18" type="Folder">5</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_bdb4afdbd9f24fa5da8cb449026e1c55" level="file">
+          <did>
+            <unittitle>Lakeshore Final Summary Report</unittitle>
+            <unitdate normal="1971/1971">1971</unitdate>
+            <container id="aspace_0454d8ee31ce599c63377b7a9569ae31" label="file" type="Box"
+              >6</container>
+            <container id="aspace_825eebd02aac4b09b1f53cc47391132f"
+              parent="aspace_0454d8ee31ce599c63377b7a9569ae31" type="Folder">6</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_081e46e430effe62246d0b9c5d275142" level="file">
+          <did>
+            <unittitle>Evaluation of Proposed Additions to National Lakeshore</unittitle>
+            <unitdate normal="1972/1972">1972</unitdate>
+            <container id="aspace_47efb7bc361646b757c4c4702da3070a" label="file" type="Box"
+              >6</container>
+            <container id="aspace_345e8cf83b4570faf0080d6aaa2a3efa"
+              parent="aspace_47efb7bc361646b757c4c4702da3070a" type="Folder">7</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_ccfd5c7747fe6a9e3a8d92f427df7674" level="file">
+          <did>
+            <unittitle>Publicity Material</unittitle>
+            <unitdate normal="1961/1967" type="inclusive">1961-1967</unitdate>
+            <container id="aspace_1e4d133e79a10486ca50c6d05e223645" label="file" type="Box"
+              >6</container>
+            <container id="aspace_6d3430b995c9b42e10ef1c931e25b3f0"
+              parent="aspace_1e4d133e79a10486ca50c6d05e223645" type="Folder">8</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_700703da357fa91c75614e81159fa4ab" level="file">
+          <did>
+            <unittitle>Council Financial Records</unittitle>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_3f4800a49075c4c6b0decde4c5b10150" label="file" type="Box"
+              >6</container>
+            <container id="aspace_5f47cda593484da81ce259cf5f5b666b"
+              parent="aspace_3f4800a49075c4c6b0decde4c5b10150" type="Folder">9</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_a83661e5c5f71d74395c2f7d7d55b3d4" level="file">
+          <did>
+            <unittitle>Mailing Lists</unittitle>
+            <unitdate normal="1958/1967" type="inclusive">(1958-1967)</unitdate>
+            <container id="aspace_465bfb7fced6f7ea52986b5159ef714e" label="file" type="Box"
+              >6</container>
+            <container id="aspace_8129eb92253bd9a6382e57156b891d9e"
+              parent="aspace_465bfb7fced6f7ea52986b5159ef714e" type="Folder">10-11</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_2d22962cc6783d2948cb736a10e7a03e" level="file">
+          <did>
+            <unittitle>St. Lawrence Seaway Corporation Prospectus</unittitle>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <container id="aspace_6eb2dcf77aa32df32b914527dd7ca9ec" label="file" type="Box"
+              >6</container>
+            <container id="aspace_fc70325710f953ec3f746e42cc732cb6"
+              parent="aspace_6eb2dcf77aa32df32b914527dd7ca9ec" type="Folder">12</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_866c80ef228e6837e863ebd13694e2df" level="file">
+          <did>
+            <unittitle>Statements Supporting an Indiana Port</unittitle>
+            <unitdate normal="1960/1962" type="inclusive">(1960-1962)</unitdate>
+            <container id="aspace_1fd8e5a2e1013f1e7ec59c0db972c63b" label="file" type="Box"
+              >6</container>
+            <container id="aspace_b0b1cd1743ec5c257c0c9fea487dadd2"
+              parent="aspace_1fd8e5a2e1013f1e7ec59c0db972c63b" type="Folder">13</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_f79d09f9032d8789686bd234554592ce" level="file">
+          <did>
+            <unittitle>Bethlehem Steel Burns Harbor Plant, Report</unittitle>
+            <unitdate normal="1943/1981" type="inclusive">n.d.</unitdate>
+            <container id="aspace_fa6ef8a8618fe98b7acd75de2e531306" label="file" type="Box"
+              >6</container>
+            <container id="aspace_94adc9fb9efff7e6bb41a6abe0547c3e"
+              parent="aspace_fa6ef8a8618fe98b7acd75de2e531306" type="Folder">14</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_8eee238f88a6297433d0e0f1827c0b04" level="file">
+          <did>
+            <unittitle>City of Gary vs. National Steel Corporation</unittitle>
+            <unitdate normal="1961-11/1961-11">November,1961</unitdate>
+            <container id="aspace_3d3dfd965d9dd3ea1602d9978cffbbf0" label="file" type="Box"
+              >6</container>
+            <container id="aspace_98e4ba4d34442c331a8bf520acf7067d"
+              parent="aspace_3d3dfd965d9dd3ea1602d9978cffbbf0" type="Folder">15</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_f27a6d021301ec21c255f0c9347a8c6b" level="file">
+          <did>
+            <unittitle>Port Users Letters of Intent</unittitle>
+            <unitdate normal="1957/1962" type="inclusive">(1957-1962)</unitdate>
+            <container id="aspace_5dd8aa17524bc1a5811eec08bdb026f4" label="file" type="Box"
+              >6</container>
+            <container id="aspace_26d302811945903eff011819044b6261"
+              parent="aspace_5dd8aa17524bc1a5811eec08bdb026f4" type="Folder">16</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_b977fa39d11ea7a5d95c8768b581f39b" level="file">
+          <did>
+            <unittitle>Testimony Opposing Burns Harbor Proposal</unittitle>
+            <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container id="aspace_de86e3736f5b049d6f6a83f0c67f8b68" label="file" type="Box"
+              >6</container>
+            <container id="aspace_e6533eeddb83385a230bc95810de035b"
+              parent="aspace_de86e3736f5b049d6f6a83f0c67f8b68" type="Folder">17</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_705505e2b18e7ab138082a901be66218" level="file">
+          <did>
+            <unittitle>Indiana Port Information</unittitle>
+            <unitdate normal="1955/1965" type="inclusive">(1955-1965)</unitdate>
+            <container id="aspace_33b839c2fff1eade403270bb0bc6dc7d" label="file" type="Box"
+              >6</container>
+            <container id="aspace_f7b1a5441587e8131704333e5009fd78"
+              parent="aspace_33b839c2fff1eade403270bb0bc6dc7d" type="Folder">18-22</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_9ff6b5f4e640b83d04f6dd1687496d10" level="file">
+          <did>
+            <unittitle>Burns Ditch Highway Hearings</unittitle>
+            <unitdate normal="1964/1964">1964</unitdate>
+            <container id="aspace_86cfeb35f5f01bb10335c88f04c5c9fb" label="file" type="Box"
+              >6</container>
+            <container id="aspace_befdb04d59d7e3f421a4e2cf40110428"
+              parent="aspace_86cfeb35f5f01bb10335c88f04c5c9fb" type="Folder">23</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_0dbb0d1bab0ba0a54475a6fd6469d53f" level="file">
+          <did>
+            <unittitle>Burns Harbor Public Works Hearings</unittitle>
+            <unitdate normal="1965-08/1965-08">August, 1965</unitdate>
+            <container id="aspace_654fb0f0811b4318e2e6a14471a03ce3" label="file" type="Box"
+              >6</container>
+            <container id="aspace_f0130f03289a7baa81f5e238f015fa35"
+              parent="aspace_654fb0f0811b4318e2e6a14471a03ce3" type="Folder">24</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_434742abd2c82ddcd7e769ffabea54b1" level="file">
+          <did>
+            <unittitle>Inland Steel Annual Report</unittitle>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <container id="aspace_a0373c3e3ec698f35f01d0fb47316b83" label="file" type="Box"
+              >6</container>
+            <container id="aspace_5b2721a69df9fd9439e8d56179a02b0a"
+              parent="aspace_a0373c3e3ec698f35f01d0fb47316b83" type="Folder">25</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_981567adc5326503c2fdfb60c482bc30" level="file">
+          <did>
+            <unittitle>NIPSCO Picture</unittitle>
+            <unitdate normal="1960-10/1960-10">October, 1960</unitdate>
+            <container id="aspace_0b97b383607bcb5284a9d9615f1c12ab" label="file" type="Box"
+              >6</container>
+            <container id="aspace_1c7fe7cd01c649d140f7de8969039ae4"
+              parent="aspace_0b97b383607bcb5284a9d9615f1c12ab" type="Folder">26</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_6f993ab49b2abe294896cfd9dd8f09d4" level="file">
+          <did>
+            <unittitle>Bethlehem Steel Information Pamphlet</unittitle>
+            <unitdate normal="1960/1960">1960</unitdate>
+            <container id="aspace_0a8f056f1734fd24f422fc036c9dd128" label="file" type="Box"
+              >6</container>
+            <container id="aspace_0ad941c4b67b5d27741fd5cc4480cecb"
+              parent="aspace_0a8f056f1734fd24f422fc036c9dd128" type="Folder">27</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_81daec8054e2c0912d1fc6c7894119c6" level="file">
+          <did>
+            <unittitle>Burns Harbor Public Relations Items</unittitle>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_ddb9d47187823f8f43de08a2c585dfae" label="file" type="Box"
+              >6</container>
+            <container id="aspace_a4b4e67e8a44fd79c5d0cfb15478d932"
+              parent="aspace_ddb9d47187823f8f43de08a2c585dfae" type="Folder">28</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 audience="internal" id="aspace_20f4dcdf06b1a040ebe16d7edc7a1d47" level="series">
+        <did>
+          <unittitle>Sound Recordings</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+              Boxes</extent></physdesc>
+          <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
+        </did>
+        <c02 audience="internal" id="aspace_a7f7f2d5c5bfd18114bf6fbe8382e2ce" level="item">
+          <did>
+            <unittitle>Dustin rebuttal to Capehart</unittitle>
+            <unitdate certainty="circa" normal="1962/1962"> ca.l962</unitdate>
+            <container id="aspace_c4c8c50e801e9b7738ebc85b35b69141" label="item" type="Box"
+              >12</container>
+            <container id="aspace_d78f3a75b0e03fe913a8199f1d7fc778"
+              parent="aspace_c4c8c50e801e9b7738ebc85b35b69141" type="Reel">1</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_e3287b25a4c53e7bd694562264993651" level="item">
+          <did>
+            <unittitle>Herb Read on "Cross Exam" show</unittitle>
+            <unitdate normal="1962-11-12/1962-11-12">November 12, 1962</unitdate>
+            <container id="aspace_9db531c3e9704e4374a2c9a1f88a101a" label="item" type="Box"
+              >12</container>
+            <container id="aspace_50d76f5f7c96566ec4d9236add0c1d94"
+              parent="aspace_9db531c3e9704e4374a2c9a1f88a101a" type="Reel">2</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_3bf7e9a4406a0d8093d19848e6e34ebc" level="item">
+          <did>
+            <unittitle>Save the Dunes Council dinner</unittitle>
+            <unitdate normal="1962-11-02/1962-11-02">November 2, 1962</unitdate>
+            <container id="aspace_f13e6f85477b4ff727e7cae2ae6a46de" label="item" type="Box"
+              >12</container>
+            <container id="aspace_ad54a605a3b9457e8a8e15bc904dca1f"
+              parent="aspace_f13e6f85477b4ff727e7cae2ae6a46de" type="Reel">3</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_700c26f0f815737a6a4433417f64f1f1" level="item">
+          <did>
+            <unittitle>Dustin rebuttal to Governor Welsh tax campaign for port</unittitle>
+            <unitdate certainty="circa" normal="1962/1962">ca. 1962</unitdate>
+            <container id="aspace_80d9f45685a0e811155ffca25babfe33" label="item" type="Box"
+              >12</container>
+            <container id="aspace_49926bc6d202939b71e8bf947163cb98"
+              parent="aspace_80d9f45685a0e811155ffca25babfe33" type="Reel">4</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_61775125fdb030afd4841925d31b4b61" level="item">
+          <did>
+            <unittitle>Save the Dunes program, Studs Terkel radio show</unittitle>
+            <unitdate certainty="circa" normal="1965/1965">ca. 1965</unitdate>
+            <container id="aspace_d43171a32dbeeafebf882cd20ca3d2cf" label="item" type="Box"
+              >12</container>
+            <container id="aspace_dfe7e1ae312c13252aee45a4c30a8901"
+              parent="aspace_d43171a32dbeeafebf882cd20ca3d2cf" type="Reel">5-6</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_28bbe954002a4b02a955839721ecfac7" level="item">
+          <did>
+            <unittitle>Dustin interview</unittitle>
+            <unitdate certainty="circa" normal="1963/1963">ca. 1963</unitdate>
+            <container id="aspace_c98b0bc459fbac166022bdd8d896808b" label="item" type="Box"
+              >13</container>
+            <container id="aspace_96369cf732658c9e0744df9b642917b4"
+              parent="aspace_c98b0bc459fbac166022bdd8d896808b" type="Reel">1</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_9eac048017f77a00f1a533094c33e637" level="item">
+          <did>
+            <unittitle>Dustin-Nelson debate</unittitle>
+            <unitdate normal="1962-09-03/1962-09-03">September 3, 1962</unitdate>
+            <container id="aspace_cb1a595c47847023627c0abd73729a36" label="item" type="Box"
+              >13</container>
+            <container id="aspace_db728a51cc9cc5db4cc1212d742aa780"
+              parent="aspace_cb1a595c47847023627c0abd73729a36" type="Reel">2</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_d7a66dffe648c0aee36aad3f499a1461" level="item">
+          <did>
+            <unittitle>Homer Capehart and Dustin reply</unittitle>
+            <unitdate normal="1962-04-30/1962-04-30">April 30, 1962</unitdate>
+            <unitdate normal="1962-05-03/1962-05-03">May 3, 1962</unitdate>
+            <container id="aspace_66343fea32a00c10a9d863579a41feb6" label="item" type="Box"
+              >13</container>
+            <container id="aspace_44ca74ef938eb188af1ede2c7759043f"
+              parent="aspace_66343fea32a00c10a9d863579a41feb6" type="Reel">3-4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 audience="internal" id="aspace_45061e172890091a2fd12b2cee7459ba" level="series">
+        <did>
+          <unittitle>Oversize</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1
+              Drawer</extent></physdesc>
+          <physloc>Oversize Drawer 2</physloc>
+          <unitdate normal="1943/1980" type="inclusive">1943-1980</unitdate>
+        </did>
+        <c02 audience="internal" id="aspace_3c39b210a24296c3f771268eac576c18" level="file">
+          <did>
+            <unittitle>Magazine articles</unittitle>
+            <unitdate normal="1943/1943">1943</unitdate>
+            <unitdate normal="1960/1976" type="inclusive">(1960-1976)</unitdate>
+            <container id="aspace_b677e4ad90bd8fc0429c4f57f0ead63d" type="drawer">2</container>
+            <container id="aspace_660ff5b64116845230423af29b093206"
+              parent="aspace_b677e4ad90bd8fc0429c4f57f0ead63d" type="Folder">1</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_606fc0a7800c3e2d4d311af26a11f7fa" level="file">
+          <did>
+            <unittitle>Maps</unittitle>
+            <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">24
+                items</extent></physdesc>
+            <unitdate normal="1959/1980" type="inclusive">(1959-1980)</unitdate>
+            <container id="aspace_e3fa0620b7371aefc8f81204a967a59e" type="drawer">2</container>
+            <container id="aspace_c46a037cc80179abd7f98c61b78a8905"
+              parent="aspace_e3fa0620b7371aefc8f81204a967a59e" type="Folder">2</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_4c490c8db8b078bae2898b19cadfed7c" level="file">
+          <did>
+            <unittitle>Publicity materials</unittitle>
+            <unitdate normal="1958/1974" type="inclusive">(1958-1974)</unitdate>
+            <container id="aspace_9f35e65c5422e6d4dc1b5909b722acaf" type="drawer">2</container>
+            <container id="aspace_665dec892c928bea6558aedf6bcf10d0"
+              parent="aspace_9f35e65c5422e6d4dc1b5909b722acaf" type="Folder">3</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_5af701f6bdd4a2d40b2d97cdb2147b9b" level="file">
+          <did>
+            <unittitle>Singing Sands Almanac</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_6e8a9989a56dee361a26f2e53b856195" type="drawer">2</container>
+            <container id="aspace_63674fa637010b9a071bde2fd115b689"
+              parent="aspace_6e8a9989a56dee361a26f2e53b856195" type="Folder">4</container>
+          </did>
+        </c02>
+        <c02 audience="internal" id="aspace_8dea02c17d7ebf9ac4f75e72c9782ad6" level="file">
+          <did>
+            <unittitle>Boundary maps</unittitle>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <unitdate normal="1971/1971">1971</unitdate>
+            <unitdate normal="1976/1976">1976</unitdate>
+            <container id="aspace_fc468411740da83367653b9725e8bca9" type="drawer">2</container>
+            <container id="aspace_c8bc9034ac5faadf974d1e35dea826d4"
+              parent="aspace_fc468411740da83367653b9725e8bca9" type="Folder">5</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
