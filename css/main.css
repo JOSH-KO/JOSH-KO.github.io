@@ -83,6 +83,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     }
 
+lb {
+    line-height: 20px;
+}
+
 p {
     font-size: 1em;
     line-height: 1em;
