@@ -1,19 +1,63 @@
+nav {
+  list-style-type: none;
+  overflow: hidden;
+  background-image: linear-gradient(0deg, rgba(245,245,245,1) 0%, rgba(176,224,230,1) 21%, rgba(176,224,230,1) 100%); 
+  text-align: center;
+}
+
+nav a {
+  display: inline;
+  text-align: center;
+  padding: 80px;
+  text-decoration: none;
+}
+
+.blurb{
+    height: auto;
+    width: auto;
+    position:relative;
+}
+
+.blurb text, div.blurb header {
+    display: block;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.headshot
+    {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+    width: 100%
+}
+
+
+p, h1, h2, footer, .headshot, .blurb text, .blurb header {
+    width: 60%;
+}
+
 body {
-    width: 70%;
-    background-color: powderblue;
+        background-color: whitesmoke;
+}
+
+body, p, h1, h2, nav, footer, .blurb text, .blurb header {
+    margin:auto;
 }
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-left:auto; 
-    margin-right:auto;
-    width:75%;
 }
 a:link {
     text-decoration: none;
@@ -22,7 +66,7 @@ a:link {
 }
 a:visited {
     text-decoration: underline;
-    color: Gainsboro;
+    color: 	#FFFF99;
     text-shadow: 1px 1px 2px black, 0 0 25px Grey, 0 0 5px WhiteSmoke;
 }
 a:hover {
@@ -31,60 +75,15 @@ a:hover {
     text-shadow: 1px 1px 2px black, 0 0 25px Silver, 0 0 5px WhiteSmoke;
 }
 
-table, th, td {
-border: 1px solid black;
-}
-
-th, td {
-padding: 8px;
-}
-
-table {
-border-collapse: collapse;
-}   
-
-th {
-background-color: #98FB98;
-}
-
-td:nth-child(2) {
-background-color: Gainsboro;
-}
-
-td:nth-child(4) {
-background-color: Gainsboro;
-}
-
-td:nth-child(6) {
-background-color: Gainsboro;
-}
-
-td:nth-child(1) {
-background-color: #FFFFF0;
-}
-
-td:nth-child(3) {
-background-color: #FFFFF0;
-}
-
-td:nth-child(5) {
-background-color: #FFFFF0;
-}
-
-tr, td:hover {
-background-color: #FFD700;
-}
-
 h1 {
-    width: 70%;
-    height: 60px;
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     }
 
-lb {
-    line-height: 2em;
-}
+h2 {
+    font-size: 1.3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    }
 
 p {
     font-size: 1em;
@@ -92,13 +91,18 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    margin-top: 50px;
     font-size: .8em;
+    display: block;
+    clear: both;
+    text-align: center;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    width: 60%;
+    
 }
 
 ul.posts li {
