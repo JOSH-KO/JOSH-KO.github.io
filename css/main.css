@@ -1,5 +1,4 @@
 body {
-    text-align:center;
     width: 70%;
     background-color: powderblue;
 }
@@ -9,14 +8,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    text-align:center;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-left:auto; 
     margin-right:auto;
-    width:70%;
-    align:center;
+    width:75%;
 }
 a:link {
     text-decoration: none;
@@ -79,7 +76,6 @@ background-color: #FFD700;
 }
 
 h1 {
-    text-align:center;
     width: 70%;
     height: 60px;
     font-size: 1.5em;
@@ -91,7 +87,6 @@ lb {
 }
 
 p {
-    text-align:center;
     font-size: 1em;
     line-height: 1em;
     color: #333;
@@ -109,5 +104,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-
